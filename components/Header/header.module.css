@@ -1,0 +1,9 @@
+.basic {
+  background-color: rgba(0, 0, 0, 0.06);
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 800;
+}
